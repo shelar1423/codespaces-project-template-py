@@ -11,8 +11,8 @@ on:
 env:
   PLAYGROUND_PAT: ${{ secrets.PLAYGROUND_PAT}}
   PLAYGROUND_APP_NAME: fastapi
-  PLAYGROUND_ACCOUNT_NAME: oleksis
-  TARGET_DOCKER_REGISTRY: oleksis
+  PLAYGROUND_ACCOUNT_NAME: digvijayshelar
+  TARGET_DOCKER_REGISTRY: digvijayshelar
   TARGET_DOCKER_IMAGE: fastapi-napptive-playground-py:latest
 
 jobs:
